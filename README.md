@@ -22,7 +22,7 @@ To run the project you need to use the following command.
 python run.py
 ```
 
-### Launch the project
+### View the Website
 
 To be able to see the website, you need to go to the following URL in your browser.
 
