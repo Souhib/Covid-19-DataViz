@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 Install all the modules in order to be able to launch the project with the following command.
 
 ```
-pip install -r requirements-pip.txt
+pip install -r requirements.txt
 ```
 
 ### Launch the project
