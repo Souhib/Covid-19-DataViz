@@ -32,8 +32,6 @@ http://localhost:5000/
 
 ### View the hosted Website
 
-Here is the link to see directly the hosted website
+You can also go directly to the online version of the project through the following link
 
-```
-https://covid-19-dashboard-souhib.herokuapp.com/
-```
+[https://covid-19-dashboard-souhib.herokuapp.com/](https://covid-19-dashboard-souhib.herokuapp.com/)
