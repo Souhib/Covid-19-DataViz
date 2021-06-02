@@ -22,10 +22,18 @@ To run the project you need to use the following command.
 python run.py
 ```
 
-### View the Website
+### View the Website locally
 
 To be able to see the website, you need to go to the following URL in your browser.
 
 ```
 http://localhost:5000/
+```
+
+### View the hosted Website
+
+Here is the link to see directly the hosted website
+
+```
+https://covid-19-dashboard-souhib.herokuapp.com/
 ```
