@@ -6,9 +6,10 @@
     <title>Covid-19 Dashboard</title>
     <link rel="stylesheet" type="text/css" href="static/style.css">
     <link rel="stylesheet" href="https://js.arcgis.com/4.15/esri/themes/light/main.css">
+    <link rel="icon" href="{{ url_for('static', filename='favicon.png') }}" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.13.0/moment.min.js"></script>
-    <script src="static/Chart.min.js"></script>
+    <script src="{{ url_for('static', filename='Chart.min.js') }}"></script>
     <script src="https://js.arcgis.com/4.15/"></script>
 </head>
 
